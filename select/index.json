@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "おばけのピアノ",
+  "base_artist": "スカート",
+  "createdAt": "2025-12-16T17:04:14.051341Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "おばけのピアノ",
+      "artist": "スカート",
+      "has_synced": false,
+      "path": "select/pl_01_おばけのピアノ_スカート.txt"
+    }
+  ]
+}
